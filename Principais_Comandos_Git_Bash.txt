@@ -1,0 +1,29 @@
+Anotações do Curso de Git/Github
+
+Principais Comandos
+
+dir: Lista os diretórios da pasta
+
+cd: Acessa pasta
+
+mkdir: Cria pasta
+
+clear: Limpa tela
+
+-a: Mostra pasta oculta
+
+mv: Move arquivos
+
+git status: Status do diretório
+
+echo > README.MD: Cria arquivo Readme
+
+git push: Empurra arquivo para repositório remoto
+
+git remote add origin URL do Github: Torna o repositório local em repositório remoto
+
+git remote -v: Verifica os repositórios Github disponíveis
+
+git pull: Puxa repositório
+
+git cone: Clona repositório
