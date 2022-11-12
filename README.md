@@ -4,7 +4,7 @@
 
 <h6 align="center">  Desafio de projeto proposto pelo Bootcamp NTT Data em parceria com a DIO.</h6>
 
-![Generic badge](https://img.shields.io/badge/STATUS-EM ANDAMENTO-<COLOR>.svg)[![made-with-Markdown](https://img.shields.io/badge/MADE%20WITH-MARKDOWN-1f425f.svg)](http://commonmark.org)
+![Generic badge](https://img.shields.io/badge/STATUS-EM%20ANDAMENTO-green.svg) [![made-with-Markdown](https://img.shields.io/badge/MADE%20WITH-MARKDOWN-blue.svg)](http://commonmark.org)
 
 
 
